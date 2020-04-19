@@ -1,3 +1,3 @@
-module github.com/certifi/gocertifi
+module github.com/yosh/gocertifi
 
 go 1.12
